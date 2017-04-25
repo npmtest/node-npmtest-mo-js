@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [mo-js (v0.288.1)](https://github.com/legomushroom/mojs)  [![npm package](https://img.shields.io/npm/v/npmtest-mo-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mo-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mo-js.svg)](https://travis-ci.org/npmtest/node-npmtest-mo-js)",
+    "description": "#### basic test coverage for  [mo-js (v0.288.1)](https://github.com/legomushroom/mojs)  [![npm package](https://img.shields.io/npm/v/npmtest-mo-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mo-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mo-js.svg)](https://travis-ci.org/npmtest/node-npmtest-mo-js)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "mo-js": "*",

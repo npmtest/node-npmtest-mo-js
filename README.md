@@ -1,6 +1,6 @@
 # npmtest-mo-js
 
-#### test coverage for  [mo-js (v0.288.1)](https://github.com/legomushroom/mojs)  [![npm package](https://img.shields.io/npm/v/npmtest-mo-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mo-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mo-js.svg)](https://travis-ci.org/npmtest/node-npmtest-mo-js)
+#### basic test coverage for  [mo-js (v0.288.1)](https://github.com/legomushroom/mojs)  [![npm package](https://img.shields.io/npm/v/npmtest-mo-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mo-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mo-js.svg)](https://travis-ci.org/npmtest/node-npmtest-mo-js)
 
 #### motion graphics toolbelt for the web
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mo-js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mo-js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mo-js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mo-js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mo-js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mo-js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mo-js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mo-js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mo-js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mo-js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mo-js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mo-js/build/coverage.html/index.html)
 
@@ -136,7 +136,8 @@
         "build": "",
         "test": "karma start --single-run"
     },
-    "version": "0.288.1"
+    "version": "0.288.1",
+    "bin": {}
 }
 ```
 
